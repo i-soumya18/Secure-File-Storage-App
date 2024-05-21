@@ -1,4 +1,4 @@
-# File Encryption and Decryption Application
+# Secure File Storage Application
 
 ## Overview
 
